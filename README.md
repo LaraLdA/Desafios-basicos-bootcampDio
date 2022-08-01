@@ -1,2 +1,2 @@
-# Desafios-basicos-bootcampDio
-Projetos básicos realizados no bootcamp code Girls
+# Desafios-bootcampDio
+Projetos básicos e intermediários realizados no bootcamp code Girls
